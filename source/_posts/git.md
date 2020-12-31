@@ -3,9 +3,11 @@ title: Git总结 #文章页面上的显示名称，可以任意修改，不会�
 date: 2020-12-02 15:30:16 #文章生成时间，一般不改，当然也可以任意修改
 categories: #文章分类目录，可以为空，注意:后面有个空格
 tags: [Git] #文章标签，可空，多标签请用格式[tag1,tag2,tag3]，注意:后面有个空格
-description: git#概要信息
+description: git#概要
+
 ---
 
+[TOC]
 
 # git branch
 
