@@ -1,6 +1,6 @@
 ---
-title: Win和Mac~~偷懒技巧~~使用指南 #文章页面上的显示名称，可以任意修改，不会出现在URL中
-date: 2020-12-20 15:30:16 #文章生成时间，一般不改，当然也可以任意修改
+title: Win和Mac使(偷)用(懒)指(技)南(巧) #文章页面上的显示名称，可以任意修改，不会出现在URL中
+# date: 2020-12-20 15:30:16 #文章生成时间，一般不改，当然也可以任意修改
 categories: #文章分类目录，可以为空，注意:后面有个空格
 tags: [Win,Mac,系统] #文章标签，可空，多标签请用格式[tag1,tag2,tag3]，注意:后面有个空格
 description: win10 和 Macos快捷方式
@@ -14,7 +14,7 @@ description: win10 和 Macos快捷方式
 
 1. 打开cmd
 2. 输入diskpart
-3.  ![list disk](https://img2020.cnblogs.com/blog/2130168/202011/2130168-20201104185107275-2099770035.png)
+3.  <img src="https://i.loli.net/2020/12/31/DLGR69srZchzKTI.png" alt="image.png" style="zoom: 50%;" />
 
 ## PowerToys使用指南
 - 1. spotlight：```Alt+space```

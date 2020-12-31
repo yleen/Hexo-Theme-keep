@@ -1,6 +1,6 @@
 ---
-title: VScode~~偷懒指南~~使用技巧 #文章页面上的显示名称，可以任意修改，不会出现在URL中
-date: 2020-12-10 15:30:16 #文章生成时间，一般不改，当然也可以任意修改
+title: VScode使(偷)用(懒)技(指)巧(南) #文章页面上的显示名称，可以任意修改，不会出现在URL中
+# date: 2020-12-10 15:30:16 #文章生成时间，一般不改，当然也可以任意修改
 categories: #文章分类目录，可以为空，注意:后面有个空格
 tags: [VScode] #文章标签，可空，多标签请用格式[tag1,tag2,tag3]，注意:后面有个空格
 description: vscode快捷键及各种插件
@@ -13,7 +13,7 @@ description: vscode快捷键及各种插件
 选中按TAB右移，按SHIFT+TAB左移
 
 # 在VScode中使用C#开发
-$\textcolor{ForestGreen}{VScode仅限于微型项目或测试  写项目还是老老实实用Visual Studio吧！}$
+VScode仅限于微型项目或测试  写项目还是老老实实用Visual Studio吧！
 
 **环境**
 
