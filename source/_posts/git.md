@@ -7,7 +7,6 @@ description: git#概要
 
 ---
 
-[TOC]
 
 # git branch
 
